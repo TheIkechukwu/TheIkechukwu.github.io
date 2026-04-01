@@ -80,7 +80,7 @@ I'm open to collaborations, freelance projects, and full-time opportunities in d
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [theikechukwu.github.io/portfolio](https://theikechukwu.github.io/portfolio/) |
+| 🌐 Portfolio | [https://theikechukwu.github.io/portfolio/](https://theikechukwu.github.io/) |
 | 💼 LinkedIn | [emeka-ikechukwu](https://www.linkedin.com/in/emeka-ikechukwu-58357b193) |
 | 🐙 GitHub | [@TheIkechukwu](https://github.com/TheIkechukwu) |
 | 🐦 Twitter / X | [@TheIkechukwu](https://x.com/TheIkechukwu) |
